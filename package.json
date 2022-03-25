@@ -1,0 +1,23 @@
+{
+  "name": "aprendendo-sobre-node",
+  "version": "1.0.0",
+  "description": "Estudos de Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmsena1/Aprendendo-sobre-node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmsena1/Aprendendo-sobre-node.js/issues"
+  },
+  "homepage": "https://github.com/fmsena1/Aprendendo-sobre-node.js#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
